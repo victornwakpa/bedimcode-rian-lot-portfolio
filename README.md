@@ -1,4 +1,5 @@
 # Responsive Portfolio Website Rian
+## Complete Code
 ## [Watch it on youtube](https://youtu.be/-uQIBlaZ4P0)
 ### Responsive Portfolio Website Rian
 
@@ -13,3 +14,6 @@
 💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/@Bedimcode)
 
 ![preview img](/preview.png)
+
+Note: I created this repository by following a Bedimcode tutorial on YouTube. If you happen to come across any mistakes, please let me know.😊
+Don't forget to leave a star ⭐
