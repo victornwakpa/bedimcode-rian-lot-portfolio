@@ -45,8 +45,8 @@ const contactForm = document.getElementById('contact-form'),
 const sendEmail = (e) => {
     e.preventDefault()
 
-    // serviceID - templateID - #form - publicKey
-    emailjs.sendForm('service_61gjezj','template_ge0qabc','#contact-form', 'JaD4QwbWnXnQgSFAg')
+    // serviceID - templateID - #form - publicKey // create account in emailjs.com and get your details
+    emailjs.sendForm('serviceID','emplateIDc','#contact-form', 'publicKey')
     .then(() => {
         // show sent message
         contactMessage.textContent = 'Message sent successfully ✅'
